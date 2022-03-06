@@ -1,3 +1,6 @@
 Para ejecutar el proyecto, es necesario utilizar Xampp o wamp para conectar la base de datos
 
 Programa funcional en JAVA 8
+
+El fin de este sistema consiste en marcar la hora de entrada y salida del personal, primero tiene que registrar al usuario y colocarle un codigo unico que lo identificará,
+al momento de marcar le tomará una foto y posteriormente se puede solicitar un reporte del marcaje donde ademas de la horas de marcaje, muestra las horas de atrasos y extras.
